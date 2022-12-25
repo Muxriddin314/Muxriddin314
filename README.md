@@ -2,4 +2,4 @@
  
  
  ### Languages and tools I work with:
- ### Html,Css,Sass,Tailwind,Javascript
+ ### Html,Css,Sass,Tailwind,JavaScript
