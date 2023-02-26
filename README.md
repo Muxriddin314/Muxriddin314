@@ -2,6 +2,7 @@
  <img src='https://cdn.dribbble.com/users/594393/screenshots/3884465/attachments/882918/31257383-223887e8-a9ed-11e7-92f0-c751aa5c9136.png' >
 
 Hello, I'm  Muhiddinov Muxriddin  <img src="https://media3.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e476u6woygwsqy7b06o78hgsn7r1z0gokarsjxvutnp&rid=giphy.gif&ct=s" width="50px" height="50px">
+<br>
  <br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="40">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="40">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="40"><br>
  
 
