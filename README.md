@@ -1,5 +1,5 @@
  
- <img src ="<img src ="https://media3.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e476u6woygwsqy7b06o78hgsn7r1z0gokarsjxvutnp&rid=giphy.gif&ct=s" width="50px" height="50px">
+ <img src ="<img src ='https://wallpapercave.com/wp/wp3082300.png'>
  ### Hello, I'm  Muhiddinov Muxriddin <img src ="https://media3.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e476u6woygwsqy7b06o78hgsn7r1z0gokarsjxvutnp&rid=giphy.gif&ct=s" width="50px" height="50px">
  <code>Languages and tools I work with:</code>
  <code>Html5,Css3,Sass,Tailwind,Bootstrap,JavaScript,React</code>
